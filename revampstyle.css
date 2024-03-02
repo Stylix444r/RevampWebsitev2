@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: lightblue
+}
+
+/* Style the header */
+header {
+  background-color: #333; /* Dark background color */
+  color: white; /* White text color */
+  padding: 20px; /* Add padding for spacing */
+  text-align: center; /* Center-align text */
+}
+
+/* Style the main content */
+.container {
+  max-width: 800px; /* Set max width for content */
+  margin: 0 auto; /* Center content horizontally */
+  padding: 20px; /* Add padding for spacing */
+}
+
+h1 {
+  color: red;
+  background-color: black;
+}
+
+h4 {
+  font-style: italic;
+  margin-top: 0; /* Remove default top margin */
+}
+
+h3 {
+  color: blueviolet;
+}
+
+a {
+  color: red;
+}
+
+.test {
+  color: indigo;
+  border: 2px solid indigo; /* Change border to solid */
+  background-color: lightgray;
+  padding: 20px; /* Increase padding for better spacing */
+  border-radius: 10px;
+  margin-bottom: 20px; /* Add bottom margin for spacing */
+}
+
+.ultra1 {
+  background-color: lightgreen;
+  border: solid 3px green; /* Change border to solid */
+  border-radius: 20px;
+  padding: 20px; /* Increase padding for better spacing */
+  margin-bottom: 20px; /* Add bottom margin for spacing */
+}
+
+.test1 {
+  font-size: 14px; /* Increase font size for better readability */
+  margin-top: 0; /* Remove default top margin */
+}
+
+.test6 {
+  background-color: #E6E6FA;
+  border: solid 2px #CCCCCC; /* Change border to solid */
+  border-radius: 20px;
+  padding: 20px; /* Increase padding for better spacing */
+  margin-bottom: 20px; /* Add bottom margin for spacing */
+}
+
+.ultramk2 {
+  border-radius: 50%;
+}
+
+button {
+  block-size: 70px;
+  margin-top: 20px;
+  padding: 20px;
+}
